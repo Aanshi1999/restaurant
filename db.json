@@ -1,0 +1,38 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "veg bites",
+      "address": "sapna sangeeta ",
+      "email id":"vegbite@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "namo sandwich",
+        "address": "Usha nagar ",
+        "email id":"namo@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "Zero degree",
+        "address": "MR9 ",
+        "email id":"Zerodegree@gmail.com"
+    },
+    {
+        "id": 1,
+        "name": "pizza don",
+        "address": "vijay nagar ",
+        "email id":"pizza@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
